@@ -8,6 +8,5 @@ The Client part you have to first install REACT,
 Check the package.json for dependencies.
 
 *To use the necessary modules for node js dont forget npm init
-
 *For the react modules dont forget npx create-react-app <your app name>
 
