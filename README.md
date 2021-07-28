@@ -3,6 +3,10 @@ using MERN Stack
 
 Web application for managing users and members for movie subscription
 The Client part you have to first install REACT,
-all the Files that responsible for the FrontEnd are in myapp--> src.
+
 
 Check the package.json for dependencies.
+
+*To use the necessary modules for node js dont forget npm init
+*For the react modules dont forget npx create-react-app <your app name>
+
