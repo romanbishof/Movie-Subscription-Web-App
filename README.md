@@ -2,7 +2,7 @@
 using MERN Stack 
 
 Web application for managing users and members for movie subscription
-The Client part you have to first install REACT,
+
 
 
 Check the package.json for dependencies.
